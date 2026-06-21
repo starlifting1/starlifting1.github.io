@@ -1,3 +1,3 @@
 # starlifting1.github.io
 
-This is just a webpage demo test.
+This is only a webpage demo test.
